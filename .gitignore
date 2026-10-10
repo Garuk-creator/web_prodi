@@ -1,6 +1,2 @@
-git init
-git add .
-git commit -m "Setup awal project"
-git branch -M main
-git remote add origin https://github.com/USERNAME/web-prodi-express.git
-git push -u origin main
+node_modules
+.env
